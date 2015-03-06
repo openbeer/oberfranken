@@ -4,7 +4,7 @@
 # note/fix: use breweries_(l), breweries_(m), breweries, brewpubs
 
 de-deutschland/by-bayern/franken!/1--oberfranken/100_000+_breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/20_000+-breweries
+de-deutschland/by-bayern/franken!/1--oberfranken/20_000+_breweries
 de-deutschland/by-bayern/franken!/1--oberfranken/coburger-land--breweries
 de-deutschland/by-bayern/franken!/1--oberfranken/fichtelgebirge--breweries
 de-deutschland/by-bayern/franken!/1--oberfranken/fraenkische-schweiz--breweries
