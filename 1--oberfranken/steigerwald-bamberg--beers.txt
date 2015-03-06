@@ -59,7 +59,7 @@ Schlenkerla Rauchweizen
 Helles Schlenkerla Lagerbier
 
 Aecht Schlenkerla Fastenbier        ## Aschermittwoch bis Ostern
-Aecht Schlenkerla Rauchbier–Urbock  ## Oktober bis Dezember
+Aecht Schlenkerla Rauchbier Urbock  ## Oktober bis Dezember
 Aecht Schlenkerla Eiche             ## Anfang Dezember bis Ende der Weihnachtszeit
 
 
