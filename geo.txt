@@ -1,0 +1,185 @@
+Bayern
+  Oberfranken
+    Oberes-Maintal-Coburger Land
+            Bamberg  (Landkreis)
+              96179 Ebing
+              96179 Rattelsdorf
+              96179 Mürsbach
+              96149 Breitengüßbach
+              96179 Rattelsdorf
+              96164 Kemmern
+            Coburg (Landkreis)
+      LIF - Lichtenfels
+    Fichtelgebirge
+            Bayreuth (Landkreis)
+              95445 Bayreuth
+              95485 Warmensteinach
+            Hof (Landkreis)
+              95028 Hof
+              95145 Oberkotzau-Fattigau
+      WUN - Wunsiedel im Fichtelgebirge
+              95163 Weissenstadt
+              95615 Marktredwitz
+              95100 Selb
+              95632 Wunsiedel
+              95632 Wunsiedel-Schönbrunn
+    Frankenwald
+            Hof (Landkreis)
+               95119 Naila
+            KC  - Kronach
+            KU  - Kulmbach
+    Fränkische Schweiz
+            Bamberg  (Landkreis)
+                96110 Scheßlitz
+                96110 Würgau
+                96117 Memmelsdorf
+                96129 Strullendorf-Geisfeld
+                91332 Heiligenstadt
+                96196 Wattendorf
+                96167 Königsfeld
+                96117 Memmelsdorf-Merkendorf
+                96196 Wattendorf
+                96123 Litzendorf-Tiefenellern
+                96129 Schammelsdorf
+                96123 Litzendorf-Lohndorf
+                96129 Roßdorf am Forst
+                96117 Memmelsdorf-Drosendorf
+                96117 Merkendorf
+                96114 Röbersdorf
+                ... 
+            Bayreuth (Landkreis)
+               91347 Aufseß
+               91257 Pegnitz
+               95473 Creussen-Lindenhardt
+               91257 Pegnitz-Büchenbach
+               91257 Pegnitz
+               91344 Waischenfeld
+               91278 Pottenstein
+               95447 Bayreuth
+               91344 Waischenfeld
+               91278 Pottenstein
+               95491 Ahorntal
+               91344 Waischenfeld
+               95491 Ahorntal
+            FO  - Forchheim
+            LIF - Lichtenfels
+               96231 Bad Staffelstein-Stublang
+    Steigerwald
+      Bamberg (Landkreis)
+        96049 Bamberg
+        96050 Bamberg
+        96052 Bamberg
+        96120 Bischberg
+        96132 Schlüsselfeld
+        96135 Stegaurach
+        96135 Stegaurach-Mühlendorf
+        96135 Debring
+        96138 Burgebrach
+        96138 Burgebrach-Ampferbach
+        96138 Mönchsambach
+        96158 Frensdorf-Untergreuth
+        96158 Frensdorf-Reundorf
+        96169 Appendorf
+        96170 Priesendorf
+        96170 Trabelsdorf
+        96178 Pommersfelden
+        96185 Schönbrunn-Zettmannsdorf
+        96191 Viereth-Trunstadt
+        96191 Viereth-Trunstadt
+      Erlangen-Höchstadt (Landkreis) -- mittelfranken
+        91325 Adelsdorf/Neuhaus
+      Kitzingen (Landkreis )   -- unterfranken ??
+        97342 Seinsheim
+    Haßberge
+      Bamberg (Landkreis)
+        96103 Hallstadt
+        96182 Reckendorf
+        96173 Oberhaid-Staffelbach
+        96173 Oberhaid
+        96182 Reckendorf
+  Mittelfranken   ## -- x Landkreise, x Kreisfrei Staedte
+    AN  - Ansbach (Stadt)
+          Ansbach (Landkreis)
+    ER  - Erlangen (Stadt)
+    ERH - Erlangen-Höchstadt
+    FÜ  - Fürth (Stadt) 
+          Fürth (Landkreis)
+    N   - Nürnberg (Stadt)
+          Nürnberger Land
+    SC  - Schwabach (Stadt)  ?? -  to landkreiss ??
+    NEA - Neustadt an der Aisch-Bad Windsheim # NEA, SEF, UFF
+    ??      Roth    # RH, HIP
+    ??      Weißenburg-Gunzenhausen # WUG, GUN
+  Unterfranken  ## -- x Landkreise, x Kreisfrei Staedte
+    Aschaffenburg (Stadt)   # AB
+    Aschaffenburg (Landkreis)  # AB, ALZ
+    Schweinfurt (Stadt) # SW
+    Schweinfurt (Landkreis)    # SW, GEO
+    Würzburg (Stadt)  # WÜ
+    Würzburg (Landkreis)  # WÜ, OCH
+    Bad Kissingen  # KG, BRK, HAB
+    Haßberge  # HAS, EBN, GEO, HOH
+    Kitzingen  # KT
+    Main-Spessart # MSP
+    Miltenberg  # MIL
+    Rhön-Grabfeld # NES, KÖN, MET
+    
+
+
+
+
+Oberfranken:
+      BA  - Bamberg (Stadt)
+            Bamberg  (Landkreis)
+      BT  - Bayreuth (Stadt)
+            Bayreuth (Landkreis)
+      CO  - Coburg (Stadt)
+            Coburg (Landkreis)
+      HO  - Hof (Stadt)
+            Hof (Landkreis)
+      FO  - Forchheim
+      KC  - Kronach
+      KU  - Kulmbach
+      LIF - Lichtenfels
+      WUN - Wunsiedel im Fichtelgebirge
+
+####
+# see http://www.infranken.de/ for landkreise abbrev??
+
+
+### Touristisch ist Franken in 15 Ferienlandschaften unterteilt
+#     see http://www.frankentourismus.de/gebiete/
+#
+#    Fichtelgebirge
+#    Frankenwald
+#    Fränkische Schweiz
+#    Fränkisches Seenland 
+#    Fränkisches Weinland 
+#    Haßberge
+#    Liebliches Taubertal
+#    Naturpark Altmühltal
+#    Nürnberger Land
+#    Oberes-Maintal-Coburger Land
+#    Rhön
+#    Romantisches Franken
+#    Spessart-Mainland
+#    Städte­region Nürnberg
+#    Steigerwald
+#
+#  links
+#  www.fraenkisches-weinland.de
+#  www.fraenkisches-seenland.de
+# www.romantisches-franken.de
+# www.staedteregion-nuernberg.de/v01/pub/de/scripts
+# www.oberesmaintal-coburgerland.com
+# www.liebliches-taubertal.de
+# www.tz-fichtelgebirge.de
+# www.spessart-mainland.de
+# www.steigerwald-info.de
+# www.altmuehlfranken.de
+# fraenkische-schweiz.bayern-online.de
+# www.rhoenline.de
+# www.hassberge-tourismus.de/J5
+# www.frankenwald-tourismus.de
+# www.frankenalb.de
+
