@@ -1,0 +1,211 @@
+###########################################
+# Bayern > Oberfranken > Steigerwald
+
+
+###
+## fix:
+##  move non-bamberg to other files!!!
+
+
+# Ferienlandschaft: Steigerwald
+#  - Huegellandschaft zwischen Wuerzburg und Bamberg
+
+
+# -------------
+# -- Bamberg
+
+
+## NOTE: see 100_000+
+## [kaiserdom]
+##  Kaiserdom Specialitäten-Brauerei
+
+[ambraeusianum]
+  Ambräusianum|Gasthausbrauerei Ambräusianum, 2004     ## 1. Gasthausbrauerei in Bamberg
+  Dominikanerstraße 10 // 96049 Bamberg
+  www.ambraeusianum.de
+
+[faessla]
+  Brauerei Fässla, 1649
+  Obere Königstraße 19-21 // 96052 Bamberg
+  www.faessla.de
+  33_000 hl
+
+[keesmann]  
+  Brauerei Keesmann|Keesmann Bräu, 1867
+  Wunderburg 5 // 96050 Bamberg
+  www.keesmann-braeu.de
+
+[klosterbraeubamberg]
+  Klosterbräu Bamberg, 1533
+  Obere Mühlbrücke 3 // 96049 Bamberg
+  www.klosterbraeu.de
+  
+[mahrsbraeu]
+  Mahrs-Bräu Bamberg|Mahrs-Bräu, 1602
+  Wunderburg 10 // 96050 Bamberg
+  www.mahrs.de
+  18_000 hl
+
+[schlenkerla]
+  Brauerei Schlenkerla, 1405
+  Dominikanerstraße 6 // 96049 Bamberg
+  www.schlenkerla.de 
+
+[spezial]
+  Brauerei Spezial, 1536
+  Obere Königstraße 10 // 96052 Bamberg
+  www.brauerei-spezial.de
+  6_500 hl
+
+[greifenklau]
+  Brauerei Greifenklau, 1719
+  Laurenziplatz 20 // 96049 Bamberg
+  www.greifenklau.de
+  1_000 hl
+  
+[weyermann]
+  Weyermann Braumanufaktur|Weyermann Malzfabrik|Weyermann Röstmalzbierbrauerei, 1903
+  Brennerstraße 17-19 // 96052 Bamberg
+  www.weyermann.de
+  180 hl
+
+
+
+# -------------------
+# -- Kreis Bamberg / ???
+
+Brauerei Mazour-Fößel, Baunacher Straße 28 // 96169 Appendorf
+
+Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
+
+Brauerei Gasthof Schwan, Hauptstraße 16 // 96138 Burgebrach
+Brauerei Herrmann, Brückenstraße 3 // 96138 Burgebrach-Ampferbach
+Brauerei Kaiser, Grasmannsdorf 9 // 96138 Burgebrach
+
+Brauerei Müller Debring, Würzburger Straße 1 // 96135 Debring
+
+Brauerei Büttner, Untergreuth 8 // 96158 Frensdorf-Untergreuth
+Brauerei Müller, Lange Straße 2 // 96158 Frensdorf-Reundorf
+
+Brauerei Zehendner, Haus Nr. 18 // 96138 Mönchsambach
+
+Brauerei Schrüfer Priesendorf, Hauptstraße 31 // 96170 Priesendorf
+
+Brauerei Hennemann, Sambach 33 // 96178 Pommersfelden
+
+Brauerei und Gasthof Adler-Bräu Schwarzer Adler, Marktplatz 6 // 96132 Schlüsselfeld
+Brauereigasthof Günter Scheubel Sternbräu, Kirchplatz 12 // 96132 Schlüsselfeld
+Braumanufaktur Hertl, Thüngfeld 61 // 96132 Schlüsselfeld
+
+Seelmann Bräu, 1608, 300hl, www.brauerei-seelmann.de, Zettmannsdorfer Hauptstraße 18 // 96185 Schönbrunn-Zettmannsdorf
+
+Hausbräu Stegaurach, Ruhlstrasse 6 // 96135 Stegaurach
+Mühlenbräu Mühlendorf, 1875, 1_200hl,   Brückenstraße 19 // 96135 Stegaurach-Mühlendorf
+
+Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
+
+Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
+Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
+
+
+
+# -----------------------
+# -- Landkreis Bamberg / ??
+
+Brauhaus Binkert, 96149 Breitengüßbach // Westring 5  
+
+Brauerei Schwanen-Bräu, 96179 Ebing // Marktplatz 11 
+
+Wagner-Bräu, 96164 Kemmern // Hauptstraße 15  
+
+Brauerei-Gasthof Zur Sonne, 96179 Mürsbach // Zaugendorfer Straße 4
+
+Brauerei Zum Goldenen Adler, 96179 Rattelsdorf // Höfen 21  
+Freudenecker Fischer-Bräu, 96179 Rattelsdorf // Freudeneck 2 
+
+
+
+
+# ----------------------
+# - Landkreis Bamberg / Fränkische Schweiz
+
+Löwenbräu Buttenheim, 1880, 10_000hl, www.loewenbraeu-buttenheim.de, Marktstrasse 8 // 96155 Buttenheim
+Meusel-Bräu Ottmar Meusel, 1579, 10_000hl,   Dreuschendorf 27 // 96155 Buttenheim
+St. Georgen Bräu Buttenheim, 1624, 40_000 hl,  www.kellerbier.de,  Marktstraße 12 // 96155 Buttenheim
+
+Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
+
+Brauerei Gasthof Ott, 1678, 7_000hl, www.brauerei-ott.de, Oberleinleiter 6 // 91332 Heiligenstadt
+Gasthaus Brauerei Aichinger, 1870, 400hl,  Marktplatz 5 // 91332 Heiligenstadt
+
+Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
+
+Brauerei Grasser, 1503, 12_000hl, www.huppendorfer-bier.de,  Huppendorf 25 // 96167 Königsfeld
+
+Brauerei Reh, 1901, 15_000hl, www.reh-bier.de, Ellertalstraße 36 // 96123 Litzendorf-Lohndorf
+Brauerei Hönig (Gasthof zur Post), 1478, 6_500hl, www.brauerei-hoenig.de, Ellerbergstraße 15 // 96123 Litzendorf-Tiefenellern
+Brauereigasthof Winkler,  1889, 700hl,   Otterbachstraße 13 // 96123 Litzendorf-Melkendorf
+Brauereigaststätte Hölzlein, 1781, 1_700hl, Ellertalstraße 13 // 96123 Litzendorf-Lohndorf
+
+Brauerei Gasthof Höhn, 1783, 500hl, www.gasthof-hoehn.de, Hauptstrasse 11 // 96117 Memmelsdorf
+Brauerei Hummel|Merkendorfer Hummel-Bräu, 1556, 9_000hl, www.brauerei-hummel.de, Lindenstraße 9 // 96117 Memmelsdorf-Merkendorf
+Brauerei und Gasthof Göller, 1865, www.goeller-brauerei.de, Scheßlitzer Straße 7 // 96117 Memmelsdorf-Drosendorf
+Brauerei-Gasthof Drei Kronen, 1457, 500hl, www.drei-kronen.de, Hauptstraße 19 // 96117 Memmelsdorf
+
+wagnermerkendorf, Brauerei Wagner Merkendorf, 1797, 17_000hl, www.wagner-merkendorf.de, Pointstraße 1 // 96117 Merkendorf
+
+
+
+Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
+
+Brauerei Sauer Roßdorf, 1784, 2_400hl, www.brauerei-sauer.de, Sutte 5 // 96129 Roßdorf am Forst
+# brands: Rossdorfer
+
+Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
+
+Brauerei Knoblach, 1880, www.brauerei-knoblach.de, Kremmeldorfer Straße 1 // 96129 Schammelsdorf
+
+Brauerei Drei Kronen, 1749, 1_500hl, www.kronabier.de, Hauptstraße 39 // 96110 Scheßlitz
+Brauereigaststätte Hoh, 1775, 800hl, Köttensdorf 4 // 96110 Scheßlitz
+
+Brauerei Will, 1742, www.schederndorf.de, Haus Nr. 19 // 96187 Stadelhofen-Schederndorf
+# brand: Schederndorfer
+Hübner Bräu, 1720, 6_500hl, www.huebner-braeu.de,  Steinfeld 69 // 96187 Stadelhofen
+
+Brauerei Gasthof Krug|Krugbräu, 1820, 650hl, www.brauerei-krug.de, Alte Dorfstraße 11 // 96129 Strullendorf-Geisfeld
+Brauerei-Gasthof Griess, 1872, 1_000hl, www.brauerei-griess.de, Magdalenenstraße 6 // 96129 Strullendorf-Geisfeld
+
+Brauerei Gaststätte Dremel, 1773, 500hl, www.brauerei-dremel.de, Hauptstraße 21 // 96196 Wattendorf
+Brauerei Hübner, 1806, www.brauerei-huebner.de, Hauptstraße 28 // 96196 Wattendorf
+
+Brauerei Gasthof Hartmann, 1550, www.brauerei-hartmann.de, Fränkische-Schweiz-Straße 26 // 96110 Würgau
+
+
+# -----------------------
+# -- Landkreis Bamberg  / Hassberge
+
+Brauerei Eichhorn Schwarzer Adler, 4_000hl, www.brauerei-eichhorn.de,  Dörfleinser Straße 43 // 96103 Hallstadt
+
+Brauerei Hertlein, 1870, Hallstadter Straße 12 // 96173 Oberhaid
+Brauerei Wagner,  1550, www.brauerei-wagner-oberhaid.de,  Bamberger Straße 2 // 96173 Oberhaid
+
+Brauerei Gasthof Schroll, 2_800hl,  Hauptstraße 38 // 96182 Reckendorf
+Schlossbrauerei Reckendorf, 1597, 25_000hl,  www.recken.de,  Mühlweg 16 // 96182 Reckendorf
+
+
+
+
+
+################
+# fix: move to unter/mittelfranken ??
+
+
+# ----------------------------------
+# -- Landkreis Erlangen-Höchstadt
+
+Brauerei Gasthof Hotel Zum Löwenbräu, Neuhauser Hauptstraße 3 // 91325 Adelsdorf/Neuhaus
+
+# -------------------------
+# -- Landkreis Kitzingen
+
+Seinsheimer Kellerbräu, Oberes Tor 1 // 97342 Seinsheim

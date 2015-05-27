@@ -1,0 +1,34 @@
+
+
+# ---------------------------
+# -- Landkreis Lichtenfels
+
+Brauhaus Altenkunstadt Andreas Leikeim , Langheimer Straße 14 // 96264 Altenkunstadt
+
+Brauerei Dinkel, Am Dorfbrunnen 19 // 96231 Bad Staffelstein-Stublang
+Brauerei Gasthof Hellmuth, Wiesen 14 // 96231 Bad Staffelstein-Wiesen
+Brauerei Gaststätte Thomann, Altmainstraße 5 // 96231 Bad Staffelstein-Wiesen
+Brauerei Hetzel, Frauendorf 11 // 96231 Bad Staffelstein-Frauendorf
+Brauerei Reblitz, Am Mahlberg 1 // 96231 Bad Staffelstein-Nedensdorf
+Brauerei Trunk Alte Klosterbrauerei, Vierzehnheiligen 3 // 96231 Bad Staffelstein-Vierzehnheiligen 
+Hausbrauerei Reichert, Stublanger Straße 2 // 96231 Bad Staffelstein-Uetzing
+Staffelberg-Bräu, Mühlteich 4 // 96231 Bad Staffelstein-Loffeld
+
+Günther-Bräu, In der Au 27 // 96224 Burgkunstadt
+
+Brauerei Leicht, Pferdsfeld 22 // 96250 Ebensfeld
+Brauerei Martin, Viehtriebweg 3 // 96250 Ebensfeld-Unterneuses
+Ebensfelder Brauhaus, Oberer Kellbachdamm 7 // 96250 Ebensfeld
+
+Brauerei-Gasthof Wichert, Alte Reichsstrasse 50 // 96215 Lichtenfels 
+Braumanufaktur Lippert, Wittelsbacher Straße 8 // 96215 Lichtenfels
+
+Weismainer Püls-Bräu, Burgkunstadter Straße 41-43 // 96260 Weismain
+
+
+
+# ---------------------------
+# -- Landkreis Lichtenfels / Fränkische Schweiz
+
+Brauerei Gasthof Hennemann, Am Dorfbrunnen 13 // 96231 Bad Staffelstein-Stublang
+

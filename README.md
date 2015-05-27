@@ -1,31 +1,42 @@
-# Beers, Breweries n Brewpubs in Franken, Bayern, Deutschland / Franconia, Bavaria, Germany
+# Beers, Breweries n Brewpubs in Bamberg & Oberfranken, Bayern, Deutschland / Bamberg & Upper Franconia, Bavaria, Germany
 
-- [Oberfranken [Upper Franconia]](1--oberfranken) - Bayreuth, Bamberg, Hof, Coburg
-    - Coburger Land -
-    - Fichtelgebirge   - Bayreuth
-    - Fraenkische Schweiz
-    - Frankenwald
-    - Hassberge
-    - Steigerwald  - Bamberg
+Cities: Bayreuth, Bamberg, Coburg, Hof
+
+Landkreise (4 kreisfreie Städte + 9 Landkreise):
+
+- Bamberg & Landkreis
+- Bayreuth & Landkreis
+- Coburg & Landkreis
+- Hof & Landkreis
+- Forchheim
+- Kronach
+- Kulmbach
+- Lichtenfels
+- Wunsiedel im Fichtelgebirge
+
+
+Ferienlandschaften:
+
+- Oberes-Maintal-Coburger Land
+- Fichtelgebirge (incl. Bayreuth)
+- Fränkische Schweiz
+- Frankenwald
+- Haßberge
+- Steigerwald (incl. Bamberg)
+
+
+<!-- todo: move to bayern readme
 - [Mittelfranken [Middle Franconia]](2--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
 - [Unterfranken [Lower Franconia]](3--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
+-->
 
 
-Free open public domain beer, brewery n brewpub data for Franken, Bayern, Deutschland
-(Franconia, Bavaria, Germany) / Europe.
+Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
+(Bamberg & Upper Franconia, Bavaria, Germany) / Europe.
 Example:
 
 
 ~~~
-______________________________
-- Brauerei Fässla | Bamberg
-
-Lagerbier
-Pils|Goldpils
-Zwergla
-Weizla Hell
-Weizla Dunkel
-Bambergator
 __________________________________
 - Brauerei Schlenkerla | Bamberg
 
@@ -36,6 +47,16 @@ Helles Schlenkerla Lagerbier
 Aecht Schlenkerla Fastenbier
 Aecht Schlenkerla Rauchbier-Urbock
 Aecht Schlenkerla Eiche
+
+______________________________
+- Brauerei Fässla | Bamberg
+
+Lagerbier
+Pils|Goldpils
+Zwergla
+Weizla Hell
+Weizla Dunkel
+Bambergator
 
 ...
 ~~~

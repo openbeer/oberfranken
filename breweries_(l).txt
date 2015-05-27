@@ -1,5 +1,5 @@
 ################################################
-# Breweries in Bayern  (> 100_000 hl)
+# Breweries in Oberfranken (> 100_000 hl)
 
 
 [kulmbacher]
