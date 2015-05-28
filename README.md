@@ -45,24 +45,6 @@ Bambergator
 ~~~
 
 
-Cities: 1. Bayreuth, 2. Bamberg, 3. Coburg, 4. Hof
-
-Ferienlandschaften:
-
-- Oberes-Maintal-Coburger Land
-- Fichtelgebirge (incl. Bayreuth)
-- Fränkische Schweiz
-- Frankenwald
-- Haßberge
-- Steigerwald (incl. Bamberg)
-
-
-<!-- todo: move to bayern readme
-- [Mittelfranken [Middle Franconia]](2--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
-- [Unterfranken [Lower Franconia]](3--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
--->
-
-
 ## Real World Slideshow (Brewery n Beer Fotos)
 
 - [Kulmbach, Bamberg Beer Tour](https://plus.google.com/photos/100841117019192894371/albums/5918686981244909281) - Kulmbacher Kommunbräu, Kulmbacher Bierwoche, Brauerei Spezial, Schlenkerla
