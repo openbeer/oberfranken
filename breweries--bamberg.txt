@@ -192,20 +192,3 @@ Brauerei Wagner,  1550, www.brauerei-wagner-oberhaid.de,  Bamberger Straße 2 //
 Brauerei Gasthof Schroll, 2_800hl,  Hauptstraße 38 // 96182 Reckendorf
 Schlossbrauerei Reckendorf, 1597, 25_000hl,  www.recken.de,  Mühlweg 16 // 96182 Reckendorf
 
-
-
-
-
-################
-# fix: move to unter/mittelfranken ??
-
-
-# ----------------------------------
-# -- Landkreis Erlangen-Höchstadt
-
-Brauerei Gasthof Hotel Zum Löwenbräu, Neuhauser Hauptstraße 3 // 91325 Adelsdorf/Neuhaus
-
-# -------------------------
-# -- Landkreis Kitzingen
-
-Seinsheimer Kellerbräu, Oberes Tor 1 // 97342 Seinsheim
