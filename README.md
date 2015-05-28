@@ -1,4 +1,7 @@
-#  Bamberg & Oberfranken › Franken › Bayern › Deutschland (Bamberg & Upper Franconia › Franconia › Bavaria › Germany)
+#  Bamberg & Oberfranken (Bamberg & Upper Franconia)
+
+Bamberg & Oberfranken › Franken › Bayern › Deutschland  (Bamberg & Upper Franconia › Franconia › Bavaria › Germany)
+
 
 Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
 (Bamberg & Upper Franconia, Bavaria, Germany) in Europe.
