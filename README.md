@@ -1,7 +1,7 @@
 <!-- Franken › • Franconia ›  -- add - why? why not??
 -->
 
-[Bayern](https://github.com/openbeer/by-bayern) › [Deutschland](https://github.com/openbeer/de-deutschland) • [Bavaria](https://github.com/openbeer/by-bayern) › [Germany](https://github.com/openbeer/de-deutschland) 
+[Deutschland](https://github.com/openbeer/de-deutschland) › [Bayern](https://github.com/openbeer/by-bayern) • [Germany](https://github.com/openbeer/de-deutschland) › [Bavaria](https://github.com/openbeer/by-bayern)
 
 # Bamberg & Oberfranken • Bamberg & Upper Franconia
 
