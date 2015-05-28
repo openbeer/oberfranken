@@ -23,14 +23,13 @@ Der Regierungsbezirk Oberfranken umfasst
     - Landkreis Wunsiedel im Fichtelgebirge
 
 
+Note: Touristisch ist Franken in 15 Ferienlandschaften unterteilt:
 
-Note: Touristisch ist Franken in 15 Ferienlandschaften unterteilt
-
-- Steigerwald
+- Oberes-Maintal-Coburger Land
+- Fichtelgebirge (incl. Bayreuth)
+- Fränkische Schweiz
+- Frankenwald
+- Haßberge
+- Steigerwald (incl. Bamberg)
     - Huegellandschaft zwischen Wuerzburg und Bamberg
-
-
-
-
-
 
