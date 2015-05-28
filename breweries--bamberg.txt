@@ -4,11 +4,13 @@
 
 # ==  Bamberg (Stadt)    ##  / Steigerwald
 
-
-## NOTE: see 100_000+
-## [kaiserdom]
-##  Kaiserdom Specialitäten-Brauerei
-
+[kaiserdom]
+  Kaiserdom Specialitäten-Brauerei, 1718
+  Breitäckerstraße 9 // 96049 Bamberg
+  www.kaiserdom.de
+  de.wikipedia: Brauerei_Kaiserdom
+  brands: Kaiserdom
+  250_000 hl
 
 [ambraeusianum]
   Ambräusianum|Gasthausbrauerei Ambräusianum, 2004     ## 1. Gasthausbrauerei in Bamberg
