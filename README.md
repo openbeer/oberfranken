@@ -3,7 +3,7 @@
 
 [Deutschland](https://github.com/openbeer/de-deutschland) › [Bayern](https://github.com/openbeer/by-bayern) • [Germany](https://github.com/openbeer/de-deutschland) › [Bavaria](https://github.com/openbeer/by-bayern)
 
-# Bamberg & Oberfranken • Bamberg & Upper Franconia
+# Bamberg & Oberfranken (OFR) • Bamberg & Upper Franconia
 
 Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
 (Bamberg & Upper Franconia, Bavaria, Germany) in Europe.
