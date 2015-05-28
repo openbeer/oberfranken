@@ -1,4 +1,38 @@
-# Beers, Breweries n Brewpubs in Bamberg & Oberfranken, Bayern, Deutschland / Bamberg & Upper Franconia, Bavaria, Germany
+#  Bamberg & Oberfranken › Franken › Bayern › Deutschland (Bamberg & Upper Franconia › Franconia › Bavaria › Germany)
+
+Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
+(Bamberg & Upper Franconia, Bavaria, Germany) in Europe.
+Example:
+
+
+~~~
+__________________________________
+- Brauerei Schlenkerla | Bamberg
+
+Aecht Schlenkerla Rauchbier
+Schlenkerla Rauchweizen
+Helles Schlenkerla Lagerbier
+
+Aecht Schlenkerla Fastenbier
+Aecht Schlenkerla Rauchbier-Urbock
+Aecht Schlenkerla Eiche
+
+______________________________
+- Brauerei Fässla | Bamberg
+
+Lagerbier
+Pils|Goldpils
+Zwergla
+Weizla Hell
+Weizla Dunkel
+Bambergator
+
+...
+~~~
+
+
+
+
 
 Cities: Bayreuth, Bamberg, Coburg, Hof
 
@@ -29,37 +63,6 @@ Ferienlandschaften:
 - [Mittelfranken [Middle Franconia]](2--mittelfranken) - Nürnberg, Fürth, Erlangen, Ansbach
 - [Unterfranken [Lower Franconia]](3--unterfranken) - Würzburg, Aschaffenburg, Schweinfurt, Bad Kissingen/Kitzingen
 -->
-
-
-Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
-(Bamberg & Upper Franconia, Bavaria, Germany) / Europe.
-Example:
-
-
-~~~
-__________________________________
-- Brauerei Schlenkerla | Bamberg
-
-Aecht Schlenkerla Rauchbier
-Schlenkerla Rauchweizen
-Helles Schlenkerla Lagerbier
-
-Aecht Schlenkerla Fastenbier
-Aecht Schlenkerla Rauchbier-Urbock
-Aecht Schlenkerla Eiche
-
-______________________________
-- Brauerei Fässla | Bamberg
-
-Lagerbier
-Pils|Goldpils
-Zwergla
-Weizla Hell
-Weizla Dunkel
-Bambergator
-
-...
-~~~
 
 
 ## Real World Slideshow (Brewery n Beer Fotos)
