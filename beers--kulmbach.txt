@@ -1,0 +1,36 @@
+
+__________________________________
+- Kulmbacher Brauerei | Kulmbach
+
+EKU 28
+EKU Export,   export
+EKU Festbier, maerzen|festbier
+EKU Hell,     helles
+EKU Pils,     pils
+
+Kapuziner Kellerweizen, weizen
+Kapuziner Weißbier,     weizen
+Kapuziner Weißbier Kristall, weizen
+Kapuziner Weißbier Leicht, weizen
+Kapuziner Weißbier Schwarz, weizen
+Kapuziner Winter-Weißbier, weizen
+
+Kulmbacher Edelherb, pils
+Kulmbacher Eisbock, bock
+Kulmbacher Export, export
+Kulmbacher Feinmild
+Kulmbacher Festbier, maerzen|festbier
+Kulmbacher Gold
+Kulmbacher Lager, lager
+Kulmbacher Leicht
+
+Mönchshof Bayerisch Hell
+Mönchshof Bockbier,       bock
+Mönchshof Kellerbier,     kellerbier
+Mönchshof Lager,          lager
+Mönchshof Landbier,       export
+Mönchshof Maibock,        maibock
+Mönchshof Original,       pils
+Mönchshof Schwarzbier,    dunkles
+Mönchshof Weihnachtsbier
+Mönchshof Weihnachtsbock, bock
