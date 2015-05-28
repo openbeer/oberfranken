@@ -7,9 +7,18 @@
 
 Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
 (Bamberg & Upper Franconia, Bavaria, Germany) in Europe.
+
+- (BA) - Bamberg (Stadt & Landkreis)
+- (BT) - Bayreuth (Stadt & Landkreis)
+- (CO) - Coburg (Stadt & Landkreis)
+- (HO) - Hof (Stadt & Landkreis)
+- (FO) - Forchheim
+- (KC) - Kronach
+- (KU) - Kulmbach
+- (LIF) - Lichtenfels
+- (WUN) - Wunsiedel im Fichtelgebirge
+
 Example:
-
-
 ~~~
 __________________________________
 - Brauerei Schlenkerla | Bamberg
@@ -36,23 +45,7 @@ Bambergator
 ~~~
 
 
-
-
-
-Cities: Bayreuth, Bamberg, Coburg, Hof
-
-Landkreise (4 kreisfreie Städte + 9 Landkreise):
-
-- Bamberg & Landkreis
-- Bayreuth & Landkreis
-- Coburg & Landkreis
-- Hof & Landkreis
-- Forchheim
-- Kronach
-- Kulmbach
-- Lichtenfels
-- Wunsiedel im Fichtelgebirge
-
+Cities: 1. Bayreuth, 2. Bamberg, 3. Coburg, 4. Hof
 
 Ferienlandschaften:
 
