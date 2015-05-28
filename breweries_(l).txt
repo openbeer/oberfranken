@@ -17,13 +17,11 @@
   de.wikipedia: Brauerei_Leikeim
   brands: Leikeim
 
-[kaiserdom]
-  Kaiserdom Specialitäten-Brauerei, 1718
-  96049 Bamberg // Breitäckerstraße 9
-  www.kaiserdom.de
-  de.wikipedia: Brauerei_Kaiserdom
-  brands: Kaiserdom
-  250_000hl
+
+## [kaiserdom]
+##  Kaiserdom Specialitäten-Brauerei, 1718
+##  96049 Bamberg // Breitäckerstraße 9
+##  see breweries--bamberg.txt
 
 [maisel]
   Brauerei Gebrüder Maisel|Brauerei Gebr. Maisel, 1887
@@ -31,6 +29,5 @@
   www.maisel.com
   de.wikipedia: Brauerei_Gebrüder_Maisel
   ## todo: Gebr. Maisel - check more than 100 000 hl ?
-
 
 
