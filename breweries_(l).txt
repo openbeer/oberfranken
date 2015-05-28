@@ -1,6 +1,9 @@
 ################################################
 # Breweries in Oberfranken (> 100_000 hl)
 
+##
+# fix/todo: use a "new" syntax for references (brewery listed in landkreis; just use a ref here
+#   to mark it as a large brewery
 
 [kulmbacher]
   Kulmbacher Brauerei, 1846
