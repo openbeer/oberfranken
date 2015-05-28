@@ -26,4 +26,11 @@ Der Regierungsbezirk Oberfranken umfasst
 
 Note: Touristisch ist Franken in 15 Ferienlandschaften unterteilt
 
+- Steigerwald
+    - Huegellandschaft zwischen Wuerzburg und Bamberg
+
+
+
+
+
 
