@@ -1,7 +1,14 @@
 
+_____________________________
+- Kulmbach     ## Frankenwald ??
 
-# ------------------------
-# -- Landkreis Kulmbach  / Frankenwald
+
+[kulmbacher]
+  Kulmbacher Brauerei, 1846
+  95326 Kulmbach // Lichtenfelser Straße 9
+  www.kulmbacher.de
+  de.wikipedia: Kulmbacher_Brauerei
+  brands: Kulmbacher, Mönchshof, EKU, Kapuziner
 
 
 Bayrisches Brauereimuseum Kulmbach, Hofer Straße 20 // 95326 Kulmbach
