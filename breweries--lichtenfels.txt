@@ -1,7 +1,16 @@
+___________________________
+- Lichtenfels
+
+[leikeim]
+  Brauhaus Altenkunstadt Andreas Leikeim|Privatbrauerei Leikeim, 1887
+  96264 Altenkunstadt // Langheimer Straße 14
+  www.leikeim.de
+  de.wikipedia: Brauerei_Leikeim
+  brands: Leikeim
 
 
 # ---------------------------
-# -- Landkreis Lichtenfels
+#  ???
 
 Brauhaus Altenkunstadt Andreas Leikeim , Langheimer Straße 14 // 96264 Altenkunstadt
 
@@ -28,7 +37,7 @@ Weismainer Püls-Bräu, Burgkunstadter Straße 41-43 // 96260 Weismain
 
 
 # ---------------------------
-# -- Landkreis Lichtenfels / Fränkische Schweiz
+#  Fränkische Schweiz
 
 Brauerei Gasthof Hennemann, Am Dorfbrunnen 13 // 96231 Bad Staffelstein-Stublang
 
