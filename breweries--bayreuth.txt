@@ -1,11 +1,11 @@
+_________________________
+- Bayreuth (BT) - Stadt
 
-# --------------
-# -- Bayreuth
-
-
-# NOTE:  see 100_000+
-# [maisel]
-#  Brauerei Gebr. Maisel, 1887    
+[maisel]
+  Brauerei Gebrüder Maisel|Brauerei Gebr. Maisel, 1887
+  95445 Bayreuth // Hindenburgstraße 9
+  www.maisel.com
+  de.wikipedia: Brauerei_Gebrüder_Maisel
 
 [bayreutherbierbrauerei]
   Bayreuther Bierbrauerei,  1857
@@ -30,15 +30,14 @@
   www.baeckerei-lang.de
   40 hl
 
-# ------------------------
-# -- Landkreis Bayreuth
+_______________________________
+- Bayreuth (BT) - Landkreis
 
 Brauerei Hütten Michael Trassl, Hütten 6-8 // 95485 Warmensteinach
 
 
-
 # --------------
-# -- Bayreuth / Fränkische Schweiz
+#  Fränkische Schweiz
 
 Bayreuther Bierbrauerei (Maisel), 1857, Hindenburgstraße 9 // 95445 Bayreuth 
 Bayreuther Bio-Brauer (Maisel), Bayreuth // 
@@ -47,7 +46,7 @@ becherbraeu, Becher Bräu, 1781, www.becherbraeu.de, St.-Nikolaus-Straße 25 // 
 
 
 # ------------------------
-# -- Landkreis Bayreuth / Fränkische Schweiz
+#  Fränkische Schweiz
 
 Stöckel-Bräu Hintergereuth, Hintergereuth 4 // 95491 Ahorntal
 Held Bräu, Oberailsfeld 19 // 95491 Ahorntal
