@@ -1,36 +1,25 @@
 ################################################
-# Breweries in Oberfranken (> 100_000 hl)
+# Breweries in Oberfranken  > 100_000 hl
 
-##
-# fix/todo: use a "new" syntax for references (brewery listed in landkreis; just use a ref here
-#   to mark it as a large brewery
+## Note: for now just used as a reference
+##  (please edit "original" record in landkreis breweries.txt file)
 
-[kulmbacher]
-  Kulmbacher Brauerei, 1846
-  95326 Kulmbach // Lichtenfelser Straße 9
-  www.kulmbacher.de
-  de.wikipedia: Kulmbacher_Brauerei
-  brands: Kulmbacher, Mönchshof, EKU, Kapuziner
+__________________
+- Kulmbach (KU)
 
+Kulmbacher Brauerei, Kulmbach //
 
-[leikeim]
-  Brauhaus Altenkunstadt Andreas Leikeim|Privatbrauerei Leikeim, 1887
-  96264 Altenkunstadt // Langheimer Straße 14
-  www.leikeim.de
-  de.wikipedia: Brauerei_Leikeim
-  brands: Leikeim
+________________________
+- Bayreuth (BT) - Stadt
 
+Brauerei Gebrüder Maisel, Bayreuth //
 
-## [kaiserdom]
-##  Kaiserdom Specialitäten-Brauerei, 1718
-##  96049 Bamberg // Breitäckerstraße 9
-##  see breweries--bamberg.txt
+________________________
+- Bamberg (BA) - Stadt
 
-[maisel]
-  Brauerei Gebrüder Maisel|Brauerei Gebr. Maisel, 1887
-  95445 Bayreuth // Hindenburgstraße 9
-  www.maisel.com
-  de.wikipedia: Brauerei_Gebrüder_Maisel
-  ## todo: Gebr. Maisel - check more than 100 000 hl ?
+Kaiserdom Specialitäten-Brauerei, Bamberg //
 
+_____________________
+- Lichtenfels (LIF)
 
+Privatbrauerei Leikeim, Altenkunstadt //
