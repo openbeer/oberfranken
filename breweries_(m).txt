@@ -1,1 +1,8 @@
+############################################
+# Breweries in Oberfranken  > 20 000 hl
+
+
+## Note: for now just used as a reference
+## (please edit "original" record in landkreis breweries.txt file)
+
 
