@@ -8,15 +8,15 @@
 Free open public domain beer, brewery n brewpub data for Bamberg & Oberfranken, Bayern, Deutschland
 (Bamberg & Upper Franconia, Bavaria, Germany) in Europe.
 
-- (BA) - Bamberg (Stadt & Landkreis)
-- (BT) - Bayreuth (Stadt & Landkreis)
-- (CO) - Coburg (Stadt & Landkreis)
-- (HO) - Hof (Stadt & Landkreis)
-- (FO) - Forchheim
-- (KC) - Kronach
-- (KU) - Kulmbach
-- (LIF) - Lichtenfels
-- (WUN) - Wunsiedel im Fichtelgebirge
+- [(BA) - Bamberg (Stadt & Landkreis)](1--bamberg) - Memmelsdorf, Litzendorf, Strullendorf,  Schleßlitz,  Heiligenstadt i.OFr., Königsfeld,  Stadelhofen, Wattendorf, Rattelsdorf, Reckendorf, Baunach, Lauter, Breitengüßbach, Kemmern, Hallstadt, Oberhaid, ...
+- [(BT) - Bayreuth (Stadt & Landkreis)](1--bayreuth)
+- [(CO) - Coburg (Stadt & Landkreis)](1--coburg)
+- [(HO) - Hof (Stadt & Landkreis)](1--hof)
+- [(FO) - Forchheim](1--forchheim)
+- [(KC) - Kronach](1--kronach)
+- [(KU) - Kulmbach](1--kulmbach)
+- [(LIF) - Lichtenfels](1--lichtenfels)
+- [(WUN) - Wunsiedel im Fichtelgebirge](1--wunsiedel)
 
 Example:
 ~~~
