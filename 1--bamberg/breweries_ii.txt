@@ -256,6 +256,17 @@
   96149 Breitengüßbach // Westring 5  
 
 
+########################
+## Gemeinde Kemmern
+##  -- de.wikipedia.org/wiki/Kemmern
+
+[wagnerbraeu]
+  Wagner-Bräu, 1788
+  96164 Kemmern // Hauptstraße 15
+  www.brauerei-wagner.de
+  10_000 hl
+
+
 
 # -------------------
 # -- Kreis Bamberg / Steigerwald
@@ -291,16 +302,6 @@ Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
 
 Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
 Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
-
-
-
-# -----------------------
-# -- Landkreis Bamberg / Steigerwald ???
-
-Wagner-Bräu, 96164 Kemmern // Hauptstraße 15  
-
-
-
 
 
 # ----------------------
