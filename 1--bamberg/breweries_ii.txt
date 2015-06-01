@@ -212,7 +212,7 @@
   96179 Rattelsdorf // Höfen 21      ## in Höfen
   200 hl
 
-###################
+#########################
 ## Gemeinde Reckendorf
 ##  -- de.wikipedia.org/wiki/Reckendorf
 
@@ -227,18 +227,27 @@
   www.recken.de
   25_000 hl
 
-###################
+#####################
 ## Gemeinde Baunach
 ##  -- de.wikipedia.org/wiki/Baunach
 
 ##  Brauerei Sippel (closed in 2010)
 
 
+###################
+## Gemeinde Lauter
+##   (incl. Appendorf) 
+##  -- de.wikipedia.org/wiki/Lauter_(Oberfranken)
+
+[zumvaelta]
+  Brauerei Mazour-Fößel|Zum Välta, 1812
+  Baunacher Straße 28 // 96169 Appendorf
+  500 hl
+  
 
 # -------------------
 # -- Kreis Bamberg / Steigerwald
 
-Brauerei Mazour-Fößel, Baunacher Straße 28 // 96169 Appendorf
 
 Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
 
