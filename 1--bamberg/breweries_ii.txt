@@ -187,7 +187,7 @@
   ## ?? hl (Kleinstbrauerei <2000 hl)
 
 
-###################
+#########################
 ## Gemeinde Rattelsdorf
 ##   (incl. Mürsbach, Freudeneck, Höfen, Ebing) 
 ##  -- de.wikipedia.org/wiki/Rattelsdorf
@@ -245,6 +245,18 @@
   500 hl
   
 
+############################
+## Gemeinde Breitengüßbach
+##  -- de.wikipedia.org/wiki/Breitengüßbach
+
+## note: Brauerei Hümmer closed in 2011
+
+[binkert]
+  Brauhaus Binkert, 2012
+  96149 Breitengüßbach // Westring 5  
+
+
+
 # -------------------
 # -- Kreis Bamberg / Steigerwald
 
@@ -284,8 +296,6 @@ Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
 
 # -----------------------
 # -- Landkreis Bamberg / Steigerwald ???
-
-Brauhaus Binkert, 96149 Breitengüßbach // Westring 5  
 
 Wagner-Bräu, 96164 Kemmern // Hauptstraße 15  
 
