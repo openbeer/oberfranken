@@ -1,0 +1,52 @@
+########################
+# Bayern > Oberfranken 
+
+# -------------------
+# -- Kreis Bamberg / Steigerwald
+
+
+Brauerei-Gasthof Zur Sonne, Regnitzstraße 2 // 96120 Bischberg
+
+Brauerei Gasthof Schwan, Hauptstraße 16 // 96138 Burgebrach
+Brauerei Herrmann, Brückenstraße 3 // 96138 Burgebrach-Ampferbach
+Brauerei Kaiser, Grasmannsdorf 9 // 96138 Burgebrach
+
+Brauerei Müller Debring, Würzburger Straße 1 // 96135 Debring
+
+Brauerei Büttner, Untergreuth 8 // 96158 Frensdorf-Untergreuth
+Brauerei Müller, Lange Straße 2 // 96158 Frensdorf-Reundorf
+
+Brauerei Zehendner, Haus Nr. 18 // 96138 Mönchsambach
+
+Brauerei Schrüfer Priesendorf, Hauptstraße 31 // 96170 Priesendorf
+
+Brauerei Hennemann, Sambach 33 // 96178 Pommersfelden
+
+Brauerei und Gasthof Adler-Bräu Schwarzer Adler, Marktplatz 6 // 96132 Schlüsselfeld
+Brauereigasthof Günter Scheubel Sternbräu, Kirchplatz 12 // 96132 Schlüsselfeld
+Braumanufaktur Hertl, Thüngfeld 61 // 96132 Schlüsselfeld
+
+Seelmann Bräu, 1608, 300hl, www.brauerei-seelmann.de, Zettmannsdorfer Hauptstraße 18 // 96185 Schönbrunn-Zettmannsdorf
+
+Hausbräu Stegaurach, Ruhlstrasse 6 // 96135 Stegaurach
+Mühlenbräu Mühlendorf, 1875, 1_200hl,   Brückenstraße 19 // 96135 Stegaurach-Mühlendorf
+
+Beck-Bräu, Steigerwaldstraße 6-8 // 96170 Trabelsdorf
+
+Brauerei Gasthof Kundmüller, Weiher 13 // 96191 Viereth-Trunstadt
+Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
+
+
+# ----------------------
+# - Landkreis Bamberg / Fränkische Schweiz
+
+Löwenbräu Buttenheim, 1880, 10_000hl, www.loewenbraeu-buttenheim.de, Marktstrasse 8 // 96155 Buttenheim
+Meusel-Bräu Ottmar Meusel, 1579, 10_000hl,   Dreuschendorf 27 // 96155 Buttenheim
+St. Georgen Bräu Buttenheim, 1624, 40_000 hl,  www.kellerbier.de,  Marktstraße 12 // 96155 Buttenheim
+
+Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
+
+
+Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
+
+Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
