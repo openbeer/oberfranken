@@ -1,6 +1,46 @@
 ########################
 # Bayern > Oberfranken 
 
+
+###################
+## Gemeinde Memmelsdorf
+##   (incl. Drosendorf, Merkendorf) 
+
+[dreikronenmemmelsdorf]
+  Brauerei-Gasthof Drei Kronen, 1457
+  Hauptstraße 19 // 96117 Memmelsdorf
+  www.drei-kronen.de
+  brands: Stöffla
+  500hl 
+
+[hoehn]
+  Brauerei Gasthof Höhn, 1783
+  Hauptstrasse 11 // 96117 Memmelsdorf
+  www.gasthof-hoehn.de
+  brands: Görchla
+  500hl 
+
+[goeller]
+  Brauerei und Gasthof Göller, 1865
+  Scheßlitzer Straße 7 // 96117 Memmelsdorf-Drosendorf
+  www.goeller-brauerei.de
+  brands: Höpfla
+  1_000 hl
+
+[hummel]
+  Brauerei Hummel|Merkendorfer Hummel-Bräu, 1556
+  Lindenstraße 9 // 96117 Memmelsdorf-Merkendorf
+  www.brauerei-hummel.de
+  9_000 hl
+
+[wagnermerkendorf]
+  Brauerei Wagner Merkendorf, 1797
+  Pointstraße 1 // 96117 Memmelsdorf-Merkendorf
+  www.wagner-merkendorf.de 
+  17_000 hl 
+
+
+
 # -------------------
 # -- Kreis Bamberg / Steigerwald
 
@@ -76,13 +116,6 @@ Brauerei Reh, 1901, 15_000hl, www.reh-bier.de, Ellertalstraße 36 // 96123 Litze
 Brauerei Hönig (Gasthof zur Post), 1478, 6_500hl, www.brauerei-hoenig.de, Ellerbergstraße 15 // 96123 Litzendorf-Tiefenellern
 Brauereigasthof Winkler,  1889, 700hl,   Otterbachstraße 13 // 96123 Litzendorf-Melkendorf
 Brauereigaststätte Hölzlein, 1781, 1_700hl, Ellertalstraße 13 // 96123 Litzendorf-Lohndorf
-
-Brauerei Gasthof Höhn, 1783, 500hl, www.gasthof-hoehn.de, Hauptstrasse 11 // 96117 Memmelsdorf
-Brauerei Hummel|Merkendorfer Hummel-Bräu, 1556, 9_000hl, www.brauerei-hummel.de, Lindenstraße 9 // 96117 Memmelsdorf-Merkendorf
-Brauerei und Gasthof Göller, 1865, www.goeller-brauerei.de, Scheßlitzer Straße 7 // 96117 Memmelsdorf-Drosendorf
-Brauerei-Gasthof Drei Kronen, 1457, 500hl, www.drei-kronen.de, Hauptstraße 19 // 96117 Memmelsdorf
-
-wagnermerkendorf, Brauerei Wagner Merkendorf, 1797, 17_000hl, www.wagner-merkendorf.de, Pointstraße 1 // 96117 Merkendorf
 
 
 
