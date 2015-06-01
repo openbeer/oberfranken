@@ -278,6 +278,21 @@
   www.brauerei-eichhorn.de
   4_000 hl
 
+#########################
+## Gemeinde Oberhaid
+##   (incl. Staffelbach) 
+##  -- de.wikipedia.org/wiki/Oberhaid_(Oberfranken)
+
+[wagneroberhaid]
+  Brauerei Wagner, 1550
+  www.brauerei-wagner-oberhaid.de
+  Bamberger Straße 2 // 96173 Oberhaid
+  5_000 hl
+
+[hertlein]
+  Brauerei Hertlein, 1870
+  Hallstadter Straße 12 // 96173 Oberhaid-Staffelbach     ## in Staffelbach
+
 
 
 # -------------------
@@ -328,21 +343,4 @@ Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
 
 Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
 
-
-
-
 Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
-
-
-### fix:
-## move to bayreuth - gemeinde aufsess !!!
-##  Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
-
-
-
-# -----------------------
-# -- Landkreis Bamberg  / Hassberge
-
-Brauerei Hertlein, 1870, Hallstadter Straße 12 // 96173 Oberhaid
-Brauerei Wagner,  1550, www.brauerei-wagner-oberhaid.de,  Bamberger Straße 2 // 96173 Oberhaid
-
