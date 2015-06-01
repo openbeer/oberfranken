@@ -1,33 +1,32 @@
-###
+#############
 # breweries
 
-# note/fix: use breweries_(l), breweries_(m), breweries, brewpubs
+de-deutschland/by-bayern/4--oberfranken!/1--bamberg/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--bamberg/breweries_ii
+de-deutschland/by-bayern/4--oberfranken!/1--bamberg/breweries_iii
+de-deutschland/by-bayern/4--oberfranken!/1--bayreuth/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--bayreuth/breweries_ii
+de-deutschland/by-bayern/4--oberfranken!/1--coburg/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--forchheim/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--hof/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--kronach/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--kulmbach/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--lichtenfels/breweries
+de-deutschland/by-bayern/4--oberfranken!/1--wunsiedel/breweries
 
-de-deutschland/by-bayern/franken!/1--oberfranken/100_000+_breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/20_000+_breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/coburger-land--breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/fichtelgebirge--breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/fraenkische-schweiz--breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/frankenwald--breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/hassberge--breweries
-de-deutschland/by-bayern/franken!/1--oberfranken/steigerwald--breweries
-
-de-deutschland/by-bayern/franken!/2--mittelfranken/breweries
-de-deutschland/by-bayern/franken!/2--mittelfranken/breweries_20_000+
-
-de-deutschland/by-bayern/franken!/3--unterfranken/breweries
-de-deutschland/by-bayern/franken!/3--unterfranken/breweries_100_000+
-de-deutschland/by-bayern/franken!/3--unterfranken/breweries_20_000+
-de-deutschland/by-bayern/franken!/3--unterfranken/brewpubs
-
-
-#############
+#########
 # beers
 
-de-deutschland/by-bayern/franken!/1--oberfranken/100_000+_beers
-de-deutschland/by-bayern/franken!/1--oberfranken/beers
-de-deutschland/by-bayern/franken!/1--oberfranken/fichtelgebirge-bayreuth--beers
-de-deutschland/by-bayern/franken!/1--oberfranken/steigerwald-bamberg--beers
+de-deutschland/by-bayern/4--oberfranken!/1--bamberg/beers
+de-deutschland/by-bayern/4--oberfranken!/1--bamberg/beers_ii
+de-deutschland/by-bayern/4--oberfranken!/1--bayreuth/beers
+de-deutschland/by-bayern/4--oberfranken!/1--kulmbach/beers
+de-deutschland/by-bayern/4--oberfranken!/1--lichtenfels/beers
 
-de-deutschland/by-bayern/franken!/3--unterfranken/beers_100_000+
 
+###############
+# more -- to be done
+#
+# 4004-beers
+# breweries_(l)
+# breweries_(m)
