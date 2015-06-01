@@ -138,7 +138,38 @@
   Oberleinleiter 6 // 91332 Heiligenstadt        ## in Oberleinleiter
   www.brauerei-ott.de
   7_000 hl
-  
+
+
+#######################################
+## Gemeinde Königsfeld
+##   (incl. Huppendorf) 
+##  -- de.wikipedia.org/wiki/Königsfeld_(Oberfranken)
+
+[grasser]
+  Brauerei Grasser, 1503
+  Huppendorf 25 // 96167 Königsfeld    ## in Huppendorf
+  brands: Huppendorfer
+  www.huppendorfer-bier.de
+  12_000 hl
+
+#######################################
+## Gemeinde Stadelhofen
+##   (incl. Steinfeld, Schederndorf) 
+##  -- de.wikipedia.org/wiki/Stadelhofen
+
+[huebner]
+  Hübner Bräu, 1720
+  Steinfeld 69 // 96187 Stadelhofen   ## in Steinfeld
+  www.huebner-braeu.de
+  6_500 hl
+
+[will]
+ Brauerei Will, 1742
+ Schederndorf 19 // 96187 Stadelhofen   ## use -- Haus Nr. 19 // 96187 Stadelhofen-Schederndorf ??
+ brand: Schederndorfer
+ www.schederndorf.de
+ 2_800 hl
+
 
 
 # -------------------
@@ -208,20 +239,16 @@ Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
 
 Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
 
-Brauerei Grasser, 1503, 12_000hl, www.huppendorfer-bier.de,  Huppendorf 25 // 96167 Königsfeld
 
 
 
 Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
 
 
-Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
+### fix:
+## move to bayreuth - gemeinde aufsess !!!
+##  Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
 
-
-
-Brauerei Will, 1742, www.schederndorf.de, Haus Nr. 19 // 96187 Stadelhofen-Schederndorf
-# brand: Schederndorfer
-Hübner Bräu, 1720, 6_500hl, www.huebner-braeu.de,  Steinfeld 69 // 96187 Stadelhofen
 
 
 Brauerei Gaststätte Dremel, 1773, 500hl, www.brauerei-dremel.de, Hauptstraße 21 // 96196 Wattendorf
