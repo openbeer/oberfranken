@@ -123,6 +123,24 @@
   8_000 hl
 
 
+#######################################
+## Gemeinde Heiligenstadt i.OFr.
+##   (incl. Oberleinleiter) 
+##  -- de.wikipedia.org/wiki/Heiligenstadt_in_Oberfranken
+
+[aichinger]
+  Gasthaus Brauerei Aichinger, 1870     ## 1888 ??
+  Marktplatz 5 // 91332 Heiligenstadt
+  400 hl  
+
+[ott]
+  Brauerei Gasthof Ott, 1678
+  Oberleinleiter 6 // 91332 Heiligenstadt        ## in Oberleinleiter
+  www.brauerei-ott.de
+  7_000 hl
+  
+
+
 # -------------------
 # -- Kreis Bamberg / Steigerwald
 
@@ -187,8 +205,6 @@ St. Georgen Bräu Buttenheim, 1624, 40_000 hl,  www.kellerbier.de,  Marktstraße
 
 Gunzendorfer Bier, 1612, Jurastraße 30 // 96155 Gunzendorf
 
-Brauerei Gasthof Ott, 1678, 7_000hl, www.brauerei-ott.de, Oberleinleiter 6 // 91332 Heiligenstadt
-Gasthaus Brauerei Aichinger, 1870, 400hl,  Marktplatz 5 // 91332 Heiligenstadt
 
 Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, Luitpoldstraße 11 // 96114 Hirschaid
 
