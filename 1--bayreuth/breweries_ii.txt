@@ -37,6 +37,27 @@ _______________________________
   Held Bräu
   Oberailsfeld 19 // 95491 Ahorntal   ## in Oberailsfeld
 
+############################
+# Stadt Pegnitz
+#  (incl. Büchenbach, Leups)
+#  -- de.wikipedia.org/wiki/Pegnitz_(Stadt)
+
+[brauervereinigungpegnitz]
+  Brauer-Vereinigung Pegnitz
+  Am Buchauer Berg 4 // 91257 Pegnitz
+
+[jurabraeu]
+  Jura Bräu
+  Buchauer Berg 8-10 // 91257 Pegnitz
+
+[herold]
+  Brauerei Gasthof Herold
+  Marktstraße 29 // 91257 Pegnitz-Büchenbach    ## in Büchenbach
+
+[gradl]
+  Brauerei Gradl
+  Leups 6 // 91257 Pegnitz       ## check - in Leups ??
+
 
 ####
 # more
@@ -46,10 +67,6 @@ Brauerei Hütten Michael Trassl, Hütten 6-8 // 95485 Warmensteinach
 
 Brauerei & Gasthof Kürzdörfer, Brauhausgasse 3 // 95473 Creussen-Lindenhardt
 
-Brauer-Vereinigung Pegnitz, Am Buchauer Berg 4 // 91257 Pegnitz
-Brauerei Gasthof Herold, Marktstraße 29 // 91257 Pegnitz-Büchenbach
-Brauerei Gradl, Leups 6 // 91257 Pegnitz
-Jura Bräu, Buchauer Berg 8-10 // 91257 Pegnitz
 
 Brauerei Mager, Hauptstraße 15 // 91278 Pottenstein
 Bruckmayer's Urbräu Fränkisches Wirtshaus, Nürnberger Straße 10 // 91278 Pottenstein
