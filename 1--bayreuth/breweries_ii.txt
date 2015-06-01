@@ -3,13 +3,6 @@ _______________________________
 
 Brauerei Hütten Michael Trassl, Hütten 6-8 // 95485 Warmensteinach
 
-# --------------
-#  Fränkische Schweiz
-
-Bayreuther Bierbrauerei (Maisel), 1857, Hindenburgstraße 9 // 95445 Bayreuth 
-Bayreuther Bio-Brauer (Maisel), Bayreuth // 
-
-becherbraeu, Becher Bräu, 1781, www.becherbraeu.de, St.-Nikolaus-Straße 25 // 95445 Bayreuth
 
 
 # ------------------------
