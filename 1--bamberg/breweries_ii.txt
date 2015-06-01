@@ -5,6 +5,7 @@
 ###################
 ## Gemeinde Memmelsdorf
 ##   (incl. Drosendorf, Merkendorf) 
+##  -- de.wikipedia.org/wiki/Memmelsdorf
 
 [dreikronenmemmelsdorf]
   Brauerei-Gasthof Drei Kronen, 1457
@@ -38,6 +39,39 @@
   Pointstraße 1 // 96117 Memmelsdorf-Merkendorf
   www.wagner-merkendorf.de 
   17_000 hl 
+
+###################
+## Gemeinde Litzendorf
+##   (incl. Schammelsdorf, Melkendorf, Lohndorf, Tiefenellern) 
+##  -- de.wikipedia.org/wiki/Litzendorf
+
+[knoblach]
+  Brauerei Knoblach, 1880
+  Kremmeldorfer Straße 1 // 96129 Schammelsdorf    ## use 96123 Litzendorf-Schammelsdorf ??
+  www.brauerei-knoblach.de
+  1_500 hl
+
+[winkler]
+  Brauereigasthof Winkler,  1889
+  Otterbachstraße 13 // 96123 Litzendorf-Melkendorf
+  700 hl
+
+[hoelzlein]
+  Brauereigaststätte Hölzlein, 1781
+  Ellertalstraße 13 // 96123 Litzendorf-Lohndorf
+  1_700 hl  ## 15_000 hl ??
+
+[reh]
+  Brauerei Reh, 1901
+  Ellertalstraße 36 // 96123 Litzendorf-Lohndorf
+  www.reh-bier.de
+  15_000 hl
+
+[hoenig]
+  Brauerei Hönig (Gasthof zur Post), 1478
+  Ellerbergstraße 15 // 96123 Litzendorf-Tiefenellern
+  www.brauerei-hoenig.de
+  6_500 hl
 
 
 
@@ -112,11 +146,6 @@ Brauerei-Gasthof Georg und Barbara Kraus, 1845, 7_000hl, www.brauerei-kraus.de, 
 
 Brauerei Grasser, 1503, 12_000hl, www.huppendorfer-bier.de,  Huppendorf 25 // 96167 Königsfeld
 
-Brauerei Reh, 1901, 15_000hl, www.reh-bier.de, Ellertalstraße 36 // 96123 Litzendorf-Lohndorf
-Brauerei Hönig (Gasthof zur Post), 1478, 6_500hl, www.brauerei-hoenig.de, Ellerbergstraße 15 // 96123 Litzendorf-Tiefenellern
-Brauereigasthof Winkler,  1889, 700hl,   Otterbachstraße 13 // 96123 Litzendorf-Melkendorf
-Brauereigaststätte Hölzlein, 1781, 1_700hl, Ellertalstraße 13 // 96123 Litzendorf-Lohndorf
-
 
 
 Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
@@ -126,7 +155,6 @@ Brauerei Sauer Roßdorf, 1784, 2_400hl, www.brauerei-sauer.de, Sutte 5 // 96129 
 
 Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
 
-Brauerei Knoblach, 1880, www.brauerei-knoblach.de, Kremmeldorfer Straße 1 // 96129 Schammelsdorf
 
 Brauerei Drei Kronen, 1749, 1_500hl, www.kronabier.de, Hauptstraße 39 // 96110 Scheßlitz
 Brauereigaststätte Hoh, 1775, 800hl, Köttensdorf 4 // 96110 Scheßlitz
