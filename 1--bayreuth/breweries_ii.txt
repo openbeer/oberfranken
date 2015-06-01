@@ -59,19 +59,56 @@ _______________________________
   Leups 6 // 91257 Pegnitz       ## check - in Leups ??
 
 
-####
-# more
+############################
+# Stadt Pottenstein
+#  -- de.wikipedia.org/wiki/Pottenstein_(Oberfranken)
 
-Brauerei Hütten Michael Trassl, Hütten 6-8 // 95485 Warmensteinach
+[mager]
+  Brauerei Mager
+  Hauptstraße 15 // 91278 Pottenstein
+
+[hufeisen]
+  Gasthausbrauerei Hufeisen
+  Hauptstraße 38 // 91278 Pottenstein
+
+[bruckmayersurbräu]
+  Bruckmayer's Urbräu Fränkisches Wirtshaus
+  Nürnberger Straße 10 // 91278 Pottenstein
 
 
-Brauerei & Gasthof Kürzdörfer, Brauhausgasse 3 // 95473 Creussen-Lindenhardt
+############################
+# Stadt Waischenfeld
+#  (incl. Nankendorf, Breitenlesau)
+#  -- de.wikipedia.org/wiki/Waischenfeld
+
+[heckel]
+  Brauerei Heckel
+  Vorstadt 3 // 91344 Waischenfeld
+
+[schroll]
+  Brauerei-Gaststätte Schroll Zum Weißen Lamm
+  Nankendorf 41 // 91344 Waischenfeld          ## in Nankendorf ??
+
+[krug]
+  Konrad Krug Brauerei
+  Breitenlesau 1b // 91344 Waischenfeld        ## in Breitenlesau
 
 
-Brauerei Mager, Hauptstraße 15 // 91278 Pottenstein
-Bruckmayer's Urbräu Fränkisches Wirtshaus, Nürnberger Straße 10 // 91278 Pottenstein
-Gasthausbrauerei Hufeisen, Hauptstraße 38 // 91278 Pottenstein
+############################
+# Gemeinde Warmensteinach
+#  (incl. Hütten)
+#  -- de.wikipedia.org/wiki/Warmensteinach
 
-Brauerei Heckel, Vorstadt 3 // 91344 Waischenfeld
-Brauerei-Gaststätte Schroll Zum Weißen Lamm, Nankendorf 41 // 91344 Waischenfeld
-Konrad Krug Brauerei, Breitenlesau 1b // 91344 Waischenfeld
+[huetten]
+  Brauerei Hütten Michael Trassl
+  Hütten 6-8 // 95485 Warmensteinach            ## in Hütten
+
+############################
+# Stadt Creußen
+#  (incl. Lindenhardt)
+# - de.wikipedia.org/wiki/Creußen
+
+[kuerzdoerfer]
+  Brauerei & Gasthof Kürzdörfer
+  Brauhausgasse 3 // 95473 Creußn-Lindenhardt   ## in Lindenhardt
+
