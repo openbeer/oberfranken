@@ -267,6 +267,18 @@
   10_000 hl
 
 
+###########################
+## Gemeinde Hallstadt
+##   (incl. Dörfleins) 
+##  -- de.wikipedia.org/wiki/Hallstadt
+
+[eichhorn]
+  Brauerei Eichhorn Schwarzer Adler
+  Dörfleinser Straße 43 // 96103 Hallstadt-Dörfleins    ## in Dörfleins
+  www.brauerei-eichhorn.de
+  4_000 hl
+
+
 
 # -------------------
 # -- Kreis Bamberg / Steigerwald
@@ -330,8 +342,6 @@ Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
 
 # -----------------------
 # -- Landkreis Bamberg  / Hassberge
-
-Brauerei Eichhorn Schwarzer Adler, 4_000hl, www.brauerei-eichhorn.de,  Dörfleinser Straße 43 // 96103 Hallstadt
 
 Brauerei Hertlein, 1870, Hallstadter Straße 12 // 96173 Oberhaid
 Brauerei Wagner,  1550, www.brauerei-wagner-oberhaid.de,  Bamberger Straße 2 // 96173 Oberhaid
