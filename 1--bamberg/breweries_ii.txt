@@ -74,6 +74,30 @@
   6_500 hl
 
 
+###################
+## Gemeinde Strullendorf
+##   (incl. Geisfeld, Roßdorf am Forst) 
+##  -- de.wikipedia.org/wiki/Strullendorf
+
+[krug]
+  Brauerei Gasthof Krug|Krugbräu, 1820
+  Alte Dorfstraße 11 // 96129 Strullendorf-Geisfeld
+  www.brauerei-krug.de
+  650 hl
+
+[griess]
+  Brauerei-Gasthof Griess, 1872
+  Magdalenenstraße 6 // 96129 Strullendorf-Geisfeld
+  www.brauerei-griess.de
+  1_000 hl
+
+[sauer]
+  Brauerei Sauer Roßdorf, 1784
+  Sutte 5 // 96129 Roßdorf am Forst    ## use 96129 Strullendorf-Roßdorf am Forst ???
+  brands: Rossdorfer
+  www.brauerei-sauer.de
+  2_400 hl
+
 
 # -------------------
 # -- Kreis Bamberg / Steigerwald
@@ -150,8 +174,6 @@ Brauerei Grasser, 1503, 12_000hl, www.huppendorfer-bier.de,  Huppendorf 25 // 96
 
 Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
 
-Brauerei Sauer Roßdorf, 1784, 2_400hl, www.brauerei-sauer.de, Sutte 5 // 96129 Roßdorf am Forst
-# brands: Rossdorfer
 
 Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
 
@@ -163,8 +185,6 @@ Brauerei Will, 1742, www.schederndorf.de, Haus Nr. 19 // 96187 Stadelhofen-Sched
 # brand: Schederndorfer
 Hübner Bräu, 1720, 6_500hl, www.huebner-braeu.de,  Steinfeld 69 // 96187 Stadelhofen
 
-Brauerei Gasthof Krug|Krugbräu, 1820, 650hl, www.brauerei-krug.de, Alte Dorfstraße 11 // 96129 Strullendorf-Geisfeld
-Brauerei-Gasthof Griess, 1872, 1_000hl, www.brauerei-griess.de, Magdalenenstraße 6 // 96129 Strullendorf-Geisfeld
 
 Brauerei Gaststätte Dremel, 1773, 500hl, www.brauerei-dremel.de, Hauptstraße 21 // 96196 Wattendorf
 Brauerei Hübner, 1806, www.brauerei-huebner.de, Hauptstraße 28 // 96196 Wattendorf
