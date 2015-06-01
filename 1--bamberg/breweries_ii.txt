@@ -187,6 +187,31 @@
   ## ?? hl (Kleinstbrauerei <2000 hl)
 
 
+###################
+## Gemeinde Rattelsdorf
+##   (incl. Mürsbach, Freudeneck, Höfen, Ebing) 
+##  -- de.wikipedia.org/wiki/Rattelsdorf
+
+[sonnenbraeu]
+  Brauerei-Gasthof Zur Sonne|Sonnenbräu, 1868
+  96179 Mürsbach // Zaugendorfer Straße 4
+  400 hl
+
+[fischerbraeu]
+  Freudenecker Fischer-Bräu   ## ca. 1880
+  96179 Rattelsdorf // Freudeneck 2    ## in Freudeneck
+  1_200 hl
+
+[schwanenbraeu]
+  Brauerei Schwanen-Bräu, 1859
+  96179 Ebing // Marktplatz 11    ## in Ebing
+  700 hl
+
+[zumgoldenenadler]
+  Brauerei Zum Goldenen Adler, 1775
+  96179 Rattelsdorf // Höfen 21      ## in Höfen
+  200 hl
+
 
 # -------------------
 # -- Kreis Bamberg / Steigerwald
@@ -231,14 +256,8 @@ Brauerei-Gasthof Mainlust Bayer, Hauptstraße 9 // 96191 Viereth-Trunstadt
 
 Brauhaus Binkert, 96149 Breitengüßbach // Westring 5  
 
-Brauerei Schwanen-Bräu, 96179 Ebing // Marktplatz 11 
-
 Wagner-Bräu, 96164 Kemmern // Hauptstraße 15  
 
-Brauerei-Gasthof Zur Sonne, 96179 Mürsbach // Zaugendorfer Straße 4
-
-Brauerei Zum Goldenen Adler, 96179 Rattelsdorf // Höfen 21  
-Freudenecker Fischer-Bräu, 96179 Rattelsdorf // Freudeneck 2 
 
 
 
