@@ -227,6 +227,12 @@
   www.recken.de
   25_000 hl
 
+###################
+## Gemeinde Baunach
+##  -- de.wikipedia.org/wiki/Baunach
+
+##  Brauerei Sippel (closed in 2010)
+
 
 
 # -------------------
