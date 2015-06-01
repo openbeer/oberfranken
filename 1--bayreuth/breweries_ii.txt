@@ -1,21 +1,47 @@
 _______________________________
 - Bayreuth (BT) - Landkreis
 
+############################
+# Gemeinde Aufseß
+#  (incl. Hochstahl, Heckenhof, Sachsendorf)
+#  -- de.wikipedia.org/wiki/Aufseß
+
+[aufsesser]
+  Aufsesser Brauerei
+  Im Tal 70b // 91347 Aufseß
+
+[reichold]
+  Brauereigasthof Reichold
+  Hochstahl 24 // 91347 Aufseß   ## in Hochstahl
+
+[kathibraeu]
+  Kathi Bräu Heckenhof
+  Heckenhof 1 // 91347 Aufseß  ## in Heckenhof
+
+[stadter]
+  Brauerei-Gasthof Stadter, 1884
+  Hauptstr. 26 // 91347 Sachsendorf
+  350 hl
+
+
+############################
+# Gemeinde Ahorntal
+#  (incl. Hintergereuth, Oberailsfeld)
+#  -- de.wikipedia.org/wiki/Ahorntal
+
+[stoeckelbraeu]
+  Stöckel-Bräu Hintergereuth
+  Hintergereuth 4 // 95491 Ahorntal    ## in Hintergereuth
+
+[heldbraeu]
+  Held Bräu
+  Oberailsfeld 19 // 95491 Ahorntal   ## in Oberailsfeld
+
+
+####
+# more
+
 Brauerei Hütten Michael Trassl, Hütten 6-8 // 95485 Warmensteinach
-
-
-
-# ------------------------
-#  Fränkische Schweiz
-
-Stöckel-Bräu Hintergereuth, Hintergereuth 4 // 95491 Ahorntal
-Held Bräu, Oberailsfeld 19 // 95491 Ahorntal
-
-Aufsesser Brauerei, Im Tal 70b // 91347 Aufseß
-Brauereigasthof Reichold, Hochstahl 24 // 91347 Aufseß
-Kathi Bräu Heckenhof, Heckenhof 1 // 91347 Aufseß
-Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
-
 
 
 Brauerei & Gasthof Kürzdörfer, Brauhausgasse 3 // 95473 Creussen-Lindenhardt
