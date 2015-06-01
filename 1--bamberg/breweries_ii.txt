@@ -157,7 +157,7 @@
 ##   (incl. Steinfeld, Schederndorf) 
 ##  -- de.wikipedia.org/wiki/Stadelhofen
 
-[huebner]
+[huebnerbraeu]    ## use huebner stadelhofen ?? why? why not??
   Hübner Bräu, 1720
   Steinfeld 69 // 96187 Stadelhofen   ## in Steinfeld
   www.huebner-braeu.de
@@ -169,6 +169,22 @@
  brand: Schederndorfer
  www.schederndorf.de
  2_800 hl
+
+############################
+## Gemeinde Wattendorf
+##  -- de.wikipedia.org/wiki/Wattendorf
+
+[dremel]
+  Brauerei Gaststätte Dremel, 1773
+  Hauptstraße 21 // 96196 Wattendorf
+  www.brauerei-dremel.de
+  500 hl
+
+[huebnerwattendorf]  
+  Brauerei Hübner, 1806
+  Hauptstraße 28 // 96196 Wattendorf
+  www.brauerei-huebner.de 
+  ## ?? hl (Kleinstbrauerei <2000 hl)
 
 
 
@@ -249,10 +265,6 @@ Brauerei Weber, 1800, 2_100hl, Ringstraße 46 // 96114 Röbersdorf
 ## move to bayreuth - gemeinde aufsess !!!
 ##  Brauerei-Gasthof Stadter,  1884, 350hl, Hauptstr. 26 // 91347 Sachsendorf
 
-
-
-Brauerei Gaststätte Dremel, 1773, 500hl, www.brauerei-dremel.de, Hauptstraße 21 // 96196 Wattendorf
-Brauerei Hübner, 1806, www.brauerei-huebner.de, Hauptstraße 28 // 96196 Wattendorf
 
 
 # -----------------------
